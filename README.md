@@ -1,2 +1,2 @@
 # Stela
-High school project on AI - 2016
+High school project on AI - **2016** (reupload)
